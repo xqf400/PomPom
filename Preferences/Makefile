@@ -5,7 +5,6 @@ PomPomPreferences_INSTALL_PATH = /Library/PreferenceBundles
 PomPomPreferences_FRAMEWORKS = UIKit
 PomPomPreferences_PRIVATE_FRAMEWORKS = Preferences
 PomPomPreferences_EXTRA_FRAMEWORKS = Cephei CepheiPrefs
-PomPomPreferences_LIBRARIES = gcuniversal
 
 include $(THEOS)/makefiles/common.mk
 include $(THEOS_MAKE_PATH)/bundle.mk
