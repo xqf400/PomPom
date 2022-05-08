@@ -17,7 +17,7 @@ iPhone, iPad and iPod running iOS/iPadOS 14.2 or later
   - You may want to edit the root `Makefile` to use your Theos SDK and toolchain
 
 ## License
-[MIT](https://github.com/thatcluda/PomPom/blob/main/LICENSE)
+[MIT](https://github.com/Traurige/PomPom/blob/main/LICENSE)
 
 ## Credits
   - Inspiration
